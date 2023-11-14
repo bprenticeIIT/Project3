@@ -96,9 +96,19 @@ img {
 .margin-top {
   margin-top: 160px
 }
+
 iframe {
   max-width: 100%;
   width: 560px;
   display: block;
   margin: 0 auto;
+}
+
+#map {
+  height: 60%;
+  width: 60%;
+  /*new comments*/
+  position: absolute;
+  padding: 5%;
+  margin: 0;
 }
