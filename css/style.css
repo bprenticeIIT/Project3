@@ -112,17 +112,17 @@ iframe {
   margin: 0 auto;
 }
 
-@media (min-width: 1000px) {
+@media (min-width: 800px) {
   body {
     background-color: #d9b99b;
   }
+
   img {
     display: block;
     margin: 10px 0;
     border: 2px solid #fff0db;
     border-style: none;
   }
-}
 @media (min-width: 1500px) {
   body {
     background-color: #90EE90;
