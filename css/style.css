@@ -111,16 +111,7 @@ iframe {
   border-color: #333;
   margin: 0 auto;
 }
-@media (min-width: 1500px) {
-  body {
-    background-color: #FFFFFF;
-  }
-  img {
-    display: block;
-    margin: 15px 0;
-    border: 3.5px solid #808080;
-    border-style: dotted;
-  }
+
 @media (min-width: 800px) {
   body {
     background-color: #d9b99b;
@@ -132,3 +123,13 @@ iframe {
     border-style: none;
   }
 }
+@media (min-width: 1500px) {
+  body {
+    background-color: #FFFFFF;
+  }
+  img {
+    display: block;
+    margin: 15px 0;
+    border: 3.5px solid #808080;
+    border-style: dotted;
+  }
