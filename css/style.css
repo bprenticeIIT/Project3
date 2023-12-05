@@ -118,7 +118,6 @@ iframe {
   }
 
   img {
-    display: block;
     margin: 10px 0;
     border: 2px solid #fff0db;
     border-style: none;
@@ -128,7 +127,6 @@ iframe {
     background-color: #90EE90;
   }
   img {
-    display: block;
     margin: 15px 0;
     border: 3.5px solid #808080;
     border-style: dotted;
