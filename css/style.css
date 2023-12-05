@@ -105,12 +105,11 @@ iframe {
 }
 
 #map {
-  height: 60%;
-  width: 60%;
-  position: absolute;
-  padding: 5%;
-  margin: 0;
-  display: flex;
-  justify-content: center;
-  align-items: center;
+  width: 90%;
+  height: 500px;
+  border-radius: 25px;
+  border-color: #FE5F55;
+  border-width: thick;
+  border-style: dotted;
+  margin: 0 auto;
 }
