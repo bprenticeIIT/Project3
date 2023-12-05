@@ -112,7 +112,7 @@ iframe {
   margin: 0 auto;
 }
 
-@media (min-width: 800px) {
+@media (min-width: 1000px) {
   body {
     background-color: #d9b99b;
   }
