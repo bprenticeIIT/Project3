@@ -121,7 +121,7 @@ iframe {
     border: 3.5px solid #808080;
     border-style: dotted;
   }
-@media (max-width: 800px) {
+@media (min-width: 800px) {
   body {
     background-color: #d9b99b;
   }
